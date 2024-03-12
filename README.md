@@ -1,7 +1,8 @@
 # Tongtai PortFolio
 click project name to watch full project
-# [Project 1: Crime-Analyst-Project](https://github.com/TongtaiM/Crime-Analyst-Project)
+# Project 1: Crime-Analyst-Project
 [Project 1: Crime-Analyst-Project](https://github.com/TongtaiM/Crime-Analyst-Project)
+
 Identified crime clusters with K-Modes clustering and built a classification model (decision tree, Naive Bayes, KNN, CatBoost) to predict crime types.
 
 This machine learning project is the first one I completed for my university class

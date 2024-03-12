@@ -1,5 +1,5 @@
 # Tongtai PortFolio
-click Project name too real full project
+click project name to watch full project
 # [Project 1: Crime-Analyst-Project](https://github.com/TongtaiM/Crime-Analyst-Project)
 
 Identified crime clusters with K-Modes clustering and built a classification model (decision tree, Naive Bayes, KNN, CatBoost) to predict crime types.
@@ -32,7 +32,7 @@ This project focusing on classification mushroom type with catboost algorithm
 ### [Non-linear regression model](https://youtu.be/QRL3Ymx86BM)
 This project will involve building a non-linear regression model using SAS. The results will be presented in a video format for clear and engaging communication.
 
-### [Star-wars-API-requesting][https://github.com/TongtaiM/Star-wars-API-requesting]
+### [Star-wars-API-requesting](https://github.com/TongtaiM/Star-wars-API-requesting)
 Getting data from API Star wars and convert to dataframe
 
 ### [Investigating Netflix Movies and Guest Stars](https://app.datacamp.com/workspace/w/f796ae9c-eda2-45be-b5d6-b444afbc37c6/edit)

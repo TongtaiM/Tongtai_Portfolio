@@ -10,7 +10,7 @@ This machine learning project is the first one I completed for my university cla
 
 This project explores customer variables in a bank dataset. By using data visualization and statistical analysis, I aim to understand customer characteristics and uncover valuable insights.
 
-# [Project 3: Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis](https://github.com/TongtaiM/Customer-Segmentation-for-Automobile-Company-Using-RFManalysis)
+# [Project 3: Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis](https://github.com/TongtaiM/Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis)
 
 This project aims to improve customer understanding and potentially increase revenue using a dataset from the Automobile industry. The dataset includes customer demographics and 2017 transaction data.
 

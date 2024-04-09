@@ -7,7 +7,7 @@ Linkin: https://www.linkedin.com/in/tongtai-mahasuwan/
 ### About me
 I am a statistics student with a passion for data. To further my data expertise, I actively seek out learning opportunities beyond the classroom, such as data science bootcamp or online course. I integrate these learning with my university studies to unlock the potential of data and hone my skills through projects both inside and outside of the classroom.
 
-I recently completed a data science bootcamp, and here are my notes Notion
+I recently completed a data science bootcamp, and here are my notes 
 [Data science BootCamp Note](https://pinto-muskox-ee5.notion.site/Data-science-Boot-Camp-8d06e9dd4947495e801b96a3b3027c77?pvs=4)
 
 # Project
@@ -60,6 +60,7 @@ This is for my final group project in my university. I was responsible for writi
 - Then we performed EDA on each crime group, uncovering valuable insights from each popular crime category.
 - Unlike many crime prediction projects that focus on when and where crimes will occur, we took a different approach.
 - We developed a classification model to predict which crime group will occur to victim
+- This project utilizes dplyr, ggplot2, and other machine learning library.
 
 #### Here are some result
 ![c](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/96d00bba-256e-4bba-809b-8d22db95413f)
@@ -68,6 +69,7 @@ This is for my final group project in my university. I was responsible for writi
 
 ![s](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/ffc96593-1e3c-4081-afbd-de5ec3cbd630)
 
+you can see my code in [Crime-Analyst-Project](https://github.com/TongtaiM/Crime-Analyst-Project)
 
 
 ## Project 4:Credit-Risk-German-Classification

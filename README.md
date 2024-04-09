@@ -72,7 +72,7 @@ This is for my final group project in my university. I was responsible for writi
 you can see my code in [Crime-Analyst-Project](https://github.com/TongtaiM/Crime-Analyst-Project)
 
 
-## Project 4:Credit-Risk-German-Classification
+## Project 4: Credit-Risk-German-Classification
 [Credit-Risk-German-Classification](https://github.com/TongtaiM/Credit-Risk-German-Classification-)
 
 In this dataset, each entry represents a person who applies for credit from a bank. The data consists of 1,000 rows and 20 columns. Each person is classified as a good or bad credit risk.
@@ -82,7 +82,7 @@ In this dataset, each entry represents a person who applies for credit from a ba
 
 you can see my code in [Credit-Risk-German-Classification](https://github.com/TongtaiM/Credit-Risk-German-Classification-)
 
-## Project 5:Predict Handwriting Numbers
+## Project 5: Predict Handwriting Numbers
 [Credit-Risk-German-Classification](https://github.com/TongtaiM/Credit-Risk-German-Classification-)
 
 - This project focuses on using the MNIST dataset to train a CNN model and tune parameters to achieve optimal performance on both the test dataset and imported real handwriting.

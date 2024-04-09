@@ -46,6 +46,7 @@ For this project, I am using an automobile company dataset that consists of four
 #### This is example of my dashboard
 ![image](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/e707ff25-0421-4511-b909-98b30ae61759)
 you can see code and full project in [Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis](https://github.com/TongtaiM/Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis)
+
 ## Project 3: Crime-Analyst-Project
 [Crime-Analyst-Project](https://github.com/TongtaiM/Crime-Analyst-Project)
 

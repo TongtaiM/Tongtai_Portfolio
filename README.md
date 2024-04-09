@@ -19,32 +19,54 @@ This is my group project in my university class. We work with 45211 row and 17 c
 - This project focuses on using EDA to increase the number of customers acquired through bank campaigns
 - We aim to uncover customer behavior trends by utilizing data visualization and statistics, ultimately optimizing marketing campaigns for customer acquisition.
 - This project utilizes pandas, matplotlib, and seaborn for data analysis.
-#### Here is some insight we found
-![image](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/aaf297e1-bfc1-43bb-a360-b10f93deb131)
+#### Here are some insight we found
+
+![agem](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/2035b04b-ddaa-4514-8067-5dc55d3efdc3)
 
 **We should target customers under 20 years old or over 60 years old.**
 
-![image](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/af6599ab-cf42-449c-8d4b-4f039d479129)
+![duration](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/773e85c6-f190-4283-bad3-ce76a8faf787)
 
 **If we can increase call duration, customers will have a better chance of joining our campaign.**
+
+![balance](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/2beb4ea8-00e4-42f7-af33-1acd6646020b)
+
+**We should target customers in normal and high acount group and.**
+**Customer in bad acount group debt from a home loan.**
 
 There are example of own project you can see code and full project in [Customer Response Analysis for Bank Marketing Campaign](https://github.com/TongtaiM/EDA_Bank_Dataset)
 
 ## Project 2: Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis
 [Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis](https://github.com/TongtaiM/Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis)
 
-In this project i work with 200
-
-- This project focuses on segmental customer to be able to deal with customers in groups
+For this project, I am using an automobile company dataset that consists of four separate CSV files
+- This project focuses on segmenting customers into distinct groups to better understand and target customer needs
 - I conducted RFM analysis and segmentation using K-Means clustering, hierarchical clustering, and rule-based methods to compare result
 - I have create dashboard with power bi to visualize transactions patterns and customer demographics.
-
+#### This is example of my dashboard
+![image](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/e707ff25-0421-4511-b909-98b30ae61759)
+you can see code and full project in [Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis](https://github.com/TongtaiM/Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis)
 ## Project 3: Crime-Analyst-Project
 [Crime-Analyst-Project](https://github.com/TongtaiM/Crime-Analyst-Project)
 
-Identified crime clusters with K-Modes clustering and built a classification model (decision tree, Naive Bayes, KNN, CatBoost) to predict crime types.
+This is for my final group project in my university. I was responsible for writing most of the code. We work with massive dataset containing 2 million crime cases in Los Angeles.
 
-This machine learning project is the first one I completed for my university class
+- This project harnesses the power of crime data to gain a deeper understanding of crime patterns in Los Angeles. By analyzing this data,   we developed prediction models to cope address crime issues.
+- This dataset had many missing and some invalid columns, requiring extensive cleaning and preparation.
+- We employed K-modes clustering in R and two-step clustering in SPSS to cluster crime cases and gain a deeper understanding of crime patterns.
+- After clustering, we were able to group similar crime cases and create a new variable named "crime group".
+- We test which independent variable are associate to crime group.
+- Then we performed EDA on each crime group, uncovering valuable insights from each popular crime category.
+- Unlike many crime prediction projects that focus on when and where crimes will occur, we took a different approach.
+- We developed a classification model to predict which crime group will occur to victim
+
+#### Here are some result
+![c](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/96d00bba-256e-4bba-809b-8d22db95413f)
+
+![e](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/1dd53919-cc45-4009-897e-a18b939e112d)
+
+![s](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/ffc96593-1e3c-4081-afbd-de5ec3cbd630)
+
 
 
 ## Project 4:Credit-Risk-German-Classification

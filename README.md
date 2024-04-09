@@ -80,6 +80,18 @@ In this dataset, each entry represents a person who applies for credit from a ba
 - This project focuses on finding the best alogorithm to predict creditworthiness, optimizing for both accuracy and AUC score.
 - I have tried to get the best results using feature engineering and random search for hyperparameters.
 
+you can see my code in [Credit-Risk-German-Classification](https://github.com/TongtaiM/Credit-Risk-German-Classification-)
+
+## Project 5:Predict Handwriting Numbers
+[Credit-Risk-German-Classification](https://github.com/TongtaiM/Credit-Risk-German-Classification-)
+
+- This project focuses on using the MNIST dataset to train a CNN model and tune parameters to achieve optimal performance on both the test dataset and imported real handwriting.
+- I created a new function to crop images from real handwriting to make them resemble MNIST images.
+
+![CNN](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/60cd61f9-c671-424e-a877-3369c7a25100)
+![cropr](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/9e1ecbcf-9130-4b33-9ce6-a63a429402b3)
+
+
 you can see my code in [Crime-Analyst-Project](https://github.com/TongtaiM/Crime-Analyst-Project)
 
 ## Addtional Work/Project

@@ -8,7 +8,7 @@ Linkin: https://www.linkedin.com/in/tongtai-mahasuwan/
 I am a statistics student with a passion for data. To further my data expertise, I actively seek out learning opportunities beyond the classroom, such as data science bootcamp or online course. I integrate these learning with my university studies to unlock the potential of data and hone my skills through projects both inside and outside of the classroom.
 
 I recently completed a data science bootcamp, and here are my notes 
-[Data science BootCamp Note](https://pinto-muskox-ee5.notion.site/Data-science-Boot-Camp-8d06e9dd4947495e801b96a3b3027c77?pvs=4)
+[Data Science BootCamp Note](https://pinto-muskox-ee5.notion.site/Data-science-Boot-Camp-8d06e9dd4947495e801b96a3b3027c77?pvs=4)
 
 # Project
 ## Project 1: Customer Response Analysis for Bank Marketing Campaign

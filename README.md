@@ -14,9 +14,9 @@ I recently completed a data science bootcamp, and here are my notes
 ## Project 1: Customer Response Analysis for Bank Marketing Campaign
 [Customer Response Analysis for Bank Marketing Campaign](https://github.com/TongtaiM/EDA_Bank_Dataset)
 
-This is my group project in my university class. We work with 45211 row and 17 column bank data
+This is my group project in my university class. We work with 45211 row and 17 column bank data.
 
-- This project focuses on using EDA to increase the number of customers acquired through bank campaigns
+- This project focuses on using EDA to increase the number of customers acquired through bank campaigns.
 - We aim to uncover customer behavior trends by utilizing data visualization and statistics, ultimately optimizing marketing campaigns for customer acquisition.
 - This project utilizes pandas, matplotlib, and seaborn for data analysis.
 #### Here are some insight we found
@@ -39,9 +39,9 @@ There are example of own project you can see code and full project in [Customer 
 ## Project 2: Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis
 [Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis](https://github.com/TongtaiM/Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis)
 
-For this project, I am using an automobile company dataset that consists of four separate CSV files
-- This project focuses on segmenting customers into distinct groups to better understand and target customer needs
-- I conducted RFM analysis and segmentation using K-Means clustering, hierarchical clustering, and rule-based methods to compare result
+For this project, I am using an automobile company dataset that consists of four separate CSV files.
+- This project focuses on segmenting customers into distinct groups to better understand and target customer needs.
+- I conducted RFM analysis and segmentation using K-Means clustering, hierarchical clustering, and rule-based methods to compare result.
 - I have create dashboard with power bi to visualize transactions patterns and customer demographics.
 #### This is my dashboard
 ![image](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/e707ff25-0421-4511-b909-98b30ae61759)
@@ -59,7 +59,7 @@ This is for my final group project in my university. I was responsible for writi
 - We test which independent variable are associate to crime group.
 - Then we performed EDA on each crime group, uncovering valuable insights from each popular crime category.
 - Unlike many crime prediction projects that focus on when and where crimes will occur, we took a different approach.
-- We developed a classification model to predict which crime group will occur to victim
+- We developed a classification model to predict which crime group will occur to victim.
 - This project utilizes dplyr, ggplot2, and other machine learning library.
 
 #### Here are some result

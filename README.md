@@ -43,7 +43,7 @@ For this project, I am using an automobile company dataset that consists of four
 - This project focuses on segmenting customers into distinct groups to better understand and target customer needs
 - I conducted RFM analysis and segmentation using K-Means clustering, hierarchical clustering, and rule-based methods to compare result
 - I have create dashboard with power bi to visualize transactions patterns and customer demographics.
-#### This is example of my dashboard
+#### This is my dashboard
 ![image](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/e707ff25-0421-4511-b909-98b30ae61759)
 you can see code and full project in [Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis](https://github.com/TongtaiM/Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis)
 

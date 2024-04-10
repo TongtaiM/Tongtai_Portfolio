@@ -83,7 +83,7 @@ In this dataset, each entry represents a person who applies for credit from a ba
 you can see my code in [Credit-Risk-German-Classification](https://github.com/TongtaiM/Credit-Risk-German-Classification-)
 
 ## Project 5: Predict Handwriting Numbers
-[Credit-Risk-German-Classification](https://github.com/TongtaiM/Credit-Risk-German-Classification-)
+[Predict Handwriting Numbers](https://github.com/TongtaiM/CNN_Handwrite_Number)
 
 - This project focuses on using the MNIST dataset to train a CNN model and tune parameters to achieve optimal performance on both the test dataset and imported real handwriting.
 - I created a new function to crop images from real handwriting to make them resemble MNIST images.
@@ -92,7 +92,7 @@ you can see my code in [Credit-Risk-German-Classification](https://github.com/To
 ![cropr](https://github.com/TongtaiM/Tongtai_Portfolio/assets/159317591/9e1ecbcf-9130-4b33-9ce6-a63a429402b3)
 
 
-you can see my code in [Crime-Analyst-Project](https://github.com/TongtaiM/Crime-Analyst-Project)
+you can see my code in [Predict Handwriting Numbers](https://github.com/TongtaiM/CNN_Handwrite_Number)
 
 ## Addtional Work/Project
 
